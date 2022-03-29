@@ -1,0 +1,50 @@
+.head{
+    margin-left: 30rem;
+}
+.text{
+    margin-left: 30rem;
+}
+.search{
+    width: 200px;
+    background-color: rgb(233, 233, 215);
+    margin-right: 40px;
+}
+.searchbtn{
+    background-color: aqua;
+    border: 2px solid black;
+    cursor: pointer;
+     
+}
+.buttons{
+    margin-left: 30rem;
+    margin-top: 10px;
+
+}
+.b1{
+    background-color: aqua;
+    border: 2px solid black;
+    cursor: pointer;
+}
+.b2{
+    background-color: aqua;
+    border: 2px solid black;
+    margin-left: 10rem;
+    cursor: pointer;
+    
+}
+.b3{
+    margin-left: 140px;
+    background-color: aqua;
+    border: 2px solid black;
+    cursor: pointer;
+}
+.item{
+    margin-left: 30rem;
+}
+.li{
+    font-size: 40px;
+}
+
+.header{
+    margin-left: 30rem;
+}
